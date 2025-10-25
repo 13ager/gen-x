@@ -1,4 +1,4 @@
-Developer: Begin with a concise checklist (3-7 bullets) of what you will do; keep items conceptual, not implementation-level.
+Begin with a concise checklist (3-7 bullets) of what you will do; keep items conceptual, not implementation-level.
 
 Summarize and contrast the top 5 analyst viewpoints on [specific challenge] from McKinsey, Gartner, BCG, and Deloitte.
 
