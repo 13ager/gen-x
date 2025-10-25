@@ -17,30 +17,39 @@ You bought the white paper (thanks, seriously). You got the appetizer-sized prom
 
 ## Prompt categories
 
-### 🎯 Strategy & planning
-* [Strategic analysis frameworks](./strategy/analysis-frameworks.md)
-* [Project scoping that actually works](./strategy/project-scoping.md)
-* [Stakeholder management for people who've seen it all](./strategy/stakeholder-mgmt.md)
+## Prompt categories
 
-### 💼 Career navigation
-* [Resume optimization without the cringe](./career/resume-optimization.md)
-* [Interview prep for seasoned pros](./career/interview-prep.md)
-* [Negotiation tactics that leverage experience](./career/negotiation.md)
+### 🎯 The 7 Power Prompts from the White Paper
+*The core arsenal from "The Gen X Executive's AI Survival Guide: 7 Power Prompts to Stay Indispensable in 2025 (with Tools)"*
 
-### 🤖 AI collaboration
-* [Training ChatGPT to match your style](./ai-collab/style-training.md)
-* [Complex problem-solving chains](./ai-collab/problem-solving.md)
-* [Data analysis for non-data-scientists](./ai-collab/data-analysis.md)
+1. **[Executive Decision Acceleration](./power-prompts/01-executive-decision-acceleration.md)**  
+   Cut through analysis paralysis with frameworks that actually respect your experience
 
-### 📊 Communication & reporting
-* [Executive summaries that cut through noise](./comms/exec-summaries.md)
-* [Meeting notes that people actually read](./comms/meeting-notes.md)
-* [Email templates for every annoying situation](./comms/email-templates.md)
+2. **[Meeting Intelligence & Performance Insights](./power-prompts/02-meeting-intelligence-performance.md)**  
+   Transform meeting notes into actionable intelligence and spot performance patterns before HR does
 
-### 🔧 Technical skills
-* [Code review for non-coders](./technical/code-review.md)
-* [System documentation that doesn't suck](./technical/documentation.md)
-* [Debugging prompts for inherited messes](./technical/debugging.md)
+3. **[Strategic Financial Foresight](./power-prompts/03-strategic-financial-foresight.md)**  
+   Financial analysis that speaks CFO while keeping your strategic edge sharp
+
+4. **[Brand & Reputation Command Center](./power-prompts/04-brand-reputation-command.md)**  
+   Monitor and manage your brand like it's 1999 but with 2025 tools
+
+5. **[Workforce AI-Readiness Audit](./power-prompts/05-workforce-ai-readiness.md)**  
+   Assess your team's AI readiness without the consultant price tag
+
+6. **[Leadership Communication Coach](./power-prompts/06-leadership-communication-coach.md)**  
+   Craft messages that land—from all-hands emails to difficult conversations
+
+7. **[Knowledge Codex Builder](./power-prompts/07-knowledge-codex-builder.md)**  
+   Turn decades of institutional knowledge into searchable, usable intelligence
+
+*Got the white paper? These are the full, uncut versions of what you sampled. No paywall, no email capture, just the goods.*
+
+### 💼 Additional prompts by category
+[Rest of the categories follow below...]
+
+
+
 
 ## Why Gen X needs this
 
