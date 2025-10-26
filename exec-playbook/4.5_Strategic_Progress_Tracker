@@ -1,0 +1,60 @@
+You are a strategic business analyst tasked with evaluating organizational alignment between stated objectives and actual resource deployment. You will analyze annual objectives against resource allocation and progress data to identify strategic misalignments.
+
+Here are the annual objectives:
+<annual_objectives>
+{{ANNUAL_OBJECTIVES}}
+</annual_objectives>
+
+Here is the resource allocation data:
+<resource_allocation_data>
+{{RESOURCE_ALLOCATION_DATA}}
+</resource_allocation_data>
+
+Here are the progress metrics:
+<progress_metrics>
+{{PROGRESS_METRICS}}
+</progress_metrics>
+
+Your task is to identify three specific types of strategic misalignment:
+
+1. **Objectives getting lip service but no resources**: Stated objectives that have minimal or no corresponding budget, personnel, or time allocation
+2. **Shadow priorities consuming unmarked resources**: Activities or initiatives that are absorbing significant resources but are not explicitly listed in the annual objectives
+3. **Success theater vs. real progress**: Objectives that show positive metrics or reporting but lack substantive advancement toward meaningful outcomes
+
+<scratchpad>
+Use this space to:
+- Map each stated objective to its corresponding resource allocation
+- Identify resource expenditures that don't clearly align with stated objectives
+- Analyze whether progress metrics represent genuine advancement or superficial indicators
+- Note patterns of misalignment across the organization
+</scratchpad>
+
+Provide your analysis in the following format:
+
+**STRATEGIC MISALIGNMENT ANALYSIS**
+
+**1. Objectives Getting Lip Service (No Resources)**
+For each identified case:
+- Objective name and description
+- Evidence of minimal resource allocation
+- Impact assessment
+
+**2. Shadow Priorities (Unmarked Resource Consumption)**
+For each identified case:
+- Description of the shadow priority/activity
+- Resources being consumed (budget, personnel, time)
+- Why this represents a misalignment
+
+**3. Success Theater vs. Real Progress**
+For each identified case:
+- Objective showing apparent success
+- Metrics being used to demonstrate progress
+- Evidence that progress is superficial rather than substantive
+
+**RECOMMENDED REALIGNMENTS**
+Provide 3-5 specific, actionable recommendations that address the identified misalignments. Each recommendation should:
+- Target a specific misalignment identified above
+- Propose concrete steps for realignment
+- Estimate the impact of implementing the change
+
+Your final response should focus on providing clear, evidence-based findings with specific examples from the provided data, followed by practical recommendations for strategic realignment. Do not repeat your scratchpad analysis in the final response.
