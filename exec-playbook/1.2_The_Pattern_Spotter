@@ -1,61 +1,56 @@
-You will be analyzing leadership meeting transcripts to identify patterns in decision-making, discussion efficiency, and participant behavior. Your goal is to provide insights that will help improve meeting effectiveness and leadership accountability.
-
-Here are the meeting transcripts to analyze:
+You will be analyzing leadership meeting transcripts to identify patterns in decision-making, discussion dynamics, and participant effectiveness. Your goal is to spot recurring issues and evaluate how different participants contribute to actionable outcomes.
 
 <meeting_transcripts>
 {{MEETING_TRANSCRIPTS}}
 </meeting_transcripts>
 
-You need to conduct a thorough analysis across three key areas:
+You need to conduct a comprehensive analysis across three key dimensions:
 
 **1. Deferred Decisions Analysis**
-Identify decisions that appear multiple times across meetings without resolution. For each deferred decision:
-- Note how many meetings it has appeared in
-- Identify the stated reasons for deferral each time
-- Look for patterns in the types of excuses or justifications given
-- Determine if the reasons are legitimate (need more data, external dependencies) or avoidance-based (complexity, disagreement, lack of ownership)
+Identify decisions that appear repeatedly across multiple meetings without resolution. For each deferred decision:
+- Note how many times it appears
+- Identify the stated reasons for deferral
+- Look for patterns in the types of decisions being deferred
+- Determine if the same obstacles keep arising
 
 **2. Time-Consuming Non-Productive Topics**
-Identify discussion topics that take up significant meeting time but consistently fail to produce concrete outcomes, decisions, or next steps. Look for:
-- Topics that generate lengthy discussion but end with "let's think about this more"
-- Recurring debates that circle back to the same points without progress
-- Discussions that consume time but result in no assigned actions or owners
-- Topics where participants seem to enjoy debating but avoid committing to solutions
+Identify discussion topics that consume significant meeting time but consistently fail to produce concrete outcomes, decisions, or next steps. Look for:
+- Topics that generate lengthy discussion but end without resolution
+- Recurring debates that circle back to the same points
+- Issues that consume time disproportionate to their importance or urgency
 
-**3. Participant Behavior Analysis**
-Categorize each meeting participant based on their contribution patterns:
-- **Resolution Drivers**: Participants who push for decisions, propose concrete next steps, volunteer to own actions, and move discussions toward closure
-- **Discussion Drivers**: Participants who contribute to conversations, ask questions, and engage in debate but rarely drive toward resolution or take ownership
-- Note specific examples of behaviors that demonstrate each pattern
+**3. Participant Behavior Patterns**
+Analyze each meeting participant to distinguish between those who drive toward resolution versus those who primarily contribute to discussion. Look for:
+- Who proposes concrete next steps, deadlines, or solutions
+- Who asks clarifying questions that move discussions forward
+- Who tends to extend discussions without adding actionable value
+- Who successfully pushes for decisions and follow-through
 
-**4. Action Velocity Score**
-For each participant, create an "action velocity score" from 1-10 based on:
-- Frequency of proposing concrete solutions or next steps
-- Taking ownership of action items
-- Following through on previous commitments (if mentioned in transcripts)
-- Pushing discussions toward resolution rather than prolonging them
-- Making decisions when they have authority to do so
+**Action Velocity Score Criteria**
+Create a score from 1-10 for each participant based on:
+- Resolution-driving behaviors (proposing solutions, setting deadlines, pushing for decisions): Higher weight
+- Quality of contributions (actionable insights vs. general commentary): Medium weight  
+- Follow-through mentions (references to completing prior commitments): Medium weight
+- Discussion efficiency (concise, focused contributions vs. lengthy tangents): Lower weight
 
-Use this scratchpad to work through your analysis systematically:
+Before providing your final analysis, use the scratchpad below to work through your observations systematically.
 
 <scratchpad>
-[Work through each meeting transcript, taking notes on deferred decisions, time-consuming topics, and participant behaviors. Organize your observations before writing your final analysis.]
+[Work through your analysis here - identify patterns, take notes on each participant, track recurring issues, etc.]
 </scratchpad>
 
-Present your findings in the following format:
+Your final response should include:
 
-<deferred_decisions>
-[List each decision that keeps getting deferred, how many meetings it has appeared in, the reasons given for deferral, and your assessment of whether these are legitimate delays or avoidance patterns]
-</deferred_decisions>
+1. **Deferred Decisions Summary**: List the top 3-5 decisions that keep getting deferred, with frequency counts and the main reasons for deferral
 
-<time_wasting_topics>
-[Identify topics that consume significant time but produce no outcomes, with specific examples of how much time they take and why they fail to reach resolution]
-</time_wasting_topics>
+2. **Time-Sink Topics**: Identify 2-4 topics that consume disproportionate time without generating outcomes
 
-<participant_analysis>
-[For each participant, categorize them as primarily a "Resolution Driver" or "Discussion Driver" with specific examples of their behaviors that support this categorization]
-</participant_analysis>
+3. **Participant Analysis**: For each participant, provide:
+   - Their primary behavioral pattern (resolution-driver vs. discussion-driver)
+   - Specific examples of their contributions
+   - Their action velocity score with brief justification
+   - Key strengths and areas for improvement
 
-<action_velocity_scores>
-[For each participant, provide your reasoning for their score first, then assign their action velocity score from 1-10]
-</action_velocity_scores>
+4. **Overall Patterns**: Summarize the most significant patterns affecting meeting effectiveness
+
+Format your final analysis clearly with headers and bullet points. Focus on actionable insights that could help improve future meeting effectiveness.
