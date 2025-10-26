@@ -1,0 +1,43 @@
+You will be analyzing meeting notes and email threads to identify hidden tensions and competing agendas around a specific initiative. Your goal is to map the political landscape and provide strategic recommendations for stakeholder alignment.
+
+Here are the meeting notes and email threads to analyze:
+
+<meeting_notes_and_emails>
+{{MEETING_NOTES_AND_EMAILS}}
+</meeting_notes_and_emails>
+
+The specific initiative you should focus on is:
+
+<initiative>
+{{INITIATIVE}}
+</initiative>
+
+Before providing your final analysis, use the scratchpad below to work through your thinking systematically:
+
+<scratchpad>
+Think through the following:
+1. What are the different perspectives and positions expressed regarding the initiative?
+2. What underlying concerns, motivations, or interests might be driving each stakeholder's position?
+3. Where do you see direct conflicts or competing priorities?
+4. What tensions are implied but not directly stated?
+5. Which stakeholders seem to have the most significant disagreements?
+6. What common ground or shared interests can you identify?
+</scratchpad>
+
+Now provide your analysis in the following format:
+
+<hidden_tensions>
+List and describe the hidden tensions you've identified around the initiative. Focus on underlying conflicts that may not be explicitly stated but can be inferred from the communications.
+</hidden_tensions>
+
+<competing_agendas>
+Map out the different agendas and priorities of various stakeholders. Explain how these agendas conflict with or compete against each other regarding the initiative.
+</competing_agendas>
+
+<stakeholder_alignment_needs>
+Identify which specific stakeholders need separate alignment conversations before any group meeting. Explain why these particular stakeholders need individual attention and what issues need to be addressed with each.
+</stakeholder_alignment_needs>
+
+<bridging_language>
+Suggest specific language, phrases, or framing approaches that could help bridge the gaps between conflicting positions. Provide language that acknowledges different concerns while moving toward common ground.
+</bridging_language>
