@@ -1,0 +1,29 @@
+You will be rewriting a corporate restructuring announcement to maximize clarity and effectiveness across different generational cohorts in the workforce. Your goal is to tailor the messaging to resonate with each generation's values and concerns while maintaining the core information.
+
+Here is the restructuring announcement you need to rewrite:
+
+<announcement>
+{{ANNOUNCEMENT}}
+</announcement>
+
+You need to create three distinct versions of this announcement, each tailored to a specific generational audience:
+
+1. **Boomer Executives Version**: Focus on stability, experience, proven track records, and continuity. Emphasize how the restructuring maintains organizational strength and builds on established foundations.
+
+2. **Gen X Managers Version**: Focus on opportunity, leadership development, practical benefits, and career advancement. Emphasize how the restructuring creates new pathways for growth and leverages their management experience.
+
+3. **Millennial/Gen Z Staff Version**: Focus on growth potential, purpose-driven work, innovation, and meaningful impact. Emphasize how the restructuring aligns with their values and creates opportunities for professional development and contribution to company mission.
+
+For each version:
+- Maintain all essential factual information from the original announcement
+- Adjust tone, language, and emphasis to match the target audience's preferences
+- Use terminology and framing that resonates with each generation's typical workplace values
+- Keep the core message consistent while adapting the presentation
+
+After creating the three versions, identify potential misinterpretations by analyzing:
+- Areas where the different versions might create conflicting expectations
+- Phrases or promises that could be misunderstood by any audience
+- Gaps between what's stated and what might be inferred
+- Potential sources of confusion if employees compare versions
+
+Structure your response with clear headings for each section. Your final output should include all three rewritten versions and your analysis of potential misinterpretations, but do not include any preliminary analysis or scratchwork in your final answer.
