@@ -1,0 +1,42 @@
+You will analyze a meeting transcript to extract commitments, decisions, and action items, identify potential issues, and draft follow-up messages. Here is the transcript to analyze:
+
+<transcript>
+{{TRANSCRIPT}}
+</transcript>
+
+Your task is to carefully review this transcript and extract three types of items:
+
+**Commitments**: Promises or agreements made by individuals to complete specific tasks or deliverables
+**Decisions**: Conclusions reached or choices made during the meeting that will guide future actions
+**Action Items**: Specific tasks that need to be completed, whether explicitly assigned or implied
+
+For each item you extract, identify the following information:
+- What the commitment/decision/action item is
+- Who is responsible (the "owner")
+- Any mentioned deadline or timeframe
+- Relevant context from the meeting
+
+After extracting all items, you must flag three types of problematic situations:
+
+1. **Items without clear owners**: Any commitment, decision, or action item where it's unclear who is responsible
+2. **Decisions that contradict previous meetings**: Any decisions mentioned that conflict with or reverse previous decisions (look for phrases like "we decided last time" or "previously we agreed")
+3. **Commitments with no deadlines**: Any commitment or action item that lacks a specific deadline or timeframe
+
+For each person who has been assigned commitments or action items, draft a brief, professional follow-up message that:
+- Summarizes their specific commitments/action items
+- Includes any relevant deadlines
+- Is written in a helpful, collaborative tone
+- Can be sent via email or messaging platform
+
+Format your response as follows:
+
+**EXTRACTED ITEMS:**
+[List all commitments, decisions, and action items with owners and deadlines where available]
+
+**FLAGGED ISSUES:**
+[Identify items without owners, contradictory decisions, and commitments without deadlines]
+
+**FOLLOW-UP MESSAGES:**
+[Draft individual messages for each person with assigned items]
+
+Your final response should focus on providing a comprehensive extraction of actionable items, clearly identifying problematic gaps, and creating ready-to-send follow-up communications that will help ensure accountability and follow-through.
