@@ -1,0 +1,28 @@
+You will be building comprehensive scenarios to analyze a strategic decision. Here is the decision you need to analyze:
+
+<decision>
+{{DECISION}}
+</decision>
+
+Your task is to create exactly 5 distinct scenarios that could unfold related to this decision. Each scenario must incorporate all four of the following analytical components:
+
+1. **Market Volatility Ranges**: Include realistic market volatility assumptions based on historical patterns, current market conditions, and risk modeling principles. Consider factors like price fluctuations, demand variability, supply chain disruptions, and economic cycles.
+
+2. **Competitor Responses**: Apply game theory principles to predict how competitors might react to this decision. Consider strategic moves like pricing changes, product launches, market entry/exit, partnerships, or defensive actions. Think about Nash equilibrium outcomes and sequential decision-making.
+
+3. **Regulatory Changes**: Incorporate potential regulatory shifts based on pending legislation, policy trends, and regulatory agency priorities. Consider both favorable and unfavorable regulatory scenarios, including new compliance requirements, tax changes, or industry-specific regulations.
+
+4. **Black Swan Events**: Include low-probability, high-impact events from adjacent industries that could significantly affect the decision outcome. These should be unexpected events that could cascade into your industry or decision context.
+
+For each scenario, you must:
+- Assign a probability percentage (all 5 scenarios should sum to 100%)
+- Calculate the expected outcome/impact for the decision
+- Identify 2-3 early warning signals that would indicate this scenario is beginning to unfold
+
+Use the scratchpad below to work through your analysis systematically before presenting your final scenarios.
+
+<scratchpad>
+[Use this space to brainstorm each component, consider interdependencies between factors, rough out probability assignments, and plan your scenarios before writing the final output]
+</scratchpad>
+
+Present your final analysis with each scenario clearly numbered and structured to include: scenario name, probability, detailed description incorporating all four components, expected outcome, and early warning signals. Your scenarios should be diverse, realistic, and collectively comprehensive in covering the major possibilities for this decision.
