@@ -1,0 +1,41 @@
+You are tasked with creating a cohesive investor narrative that synthesizes quarterly performance, competitive landscape, and market conditions into a compelling story for investors. You will be provided with three key data sources to work with.
+
+<quarterly_data>
+{{QUARTERLY_DATA}}
+</quarterly_data>
+
+<competitor_analysis>
+{{COMPETITOR_ANALYSIS}}
+</competitor_analysis>
+
+<market_dynamics>
+{{MARKET_DYNAMICS}}
+</market_dynamics>
+
+Your goal is to create a structured investor narrative with exactly three sections:
+
+**Section 1: Why We Won This Quarter**
+- Analyze the quarterly data to identify key performance drivers and wins
+- Reference specific metrics, growth rates, or achievements from the quarterly data
+- Connect these wins to broader strategic initiatives or market positioning
+- Use concrete numbers and percentages where available
+
+**Section 2: How We're Positioned for Next Quarter**
+- Draw insights from both the market dynamics and competitor analysis to forecast opportunities
+- Identify market trends that favor your company's positioning
+- Highlight competitive advantages or gaps in competitor strategies that create openings
+- Reference specific market conditions or competitor weaknesses that support your outlook
+
+**Section 3: The Moat We're Building**
+- Synthesize information across all three data sources to articulate sustainable competitive advantages
+- Explain how current quarter performance demonstrates moat-building activities
+- Show how market position and competitive dynamics reinforce long-term defensibility
+- Focus on barriers to entry, network effects, switching costs, or other durable advantages
+
+Throughout your narrative:
+- Include specific proof points (metrics, data, examples) from the provided sources to support each claim
+- Anticipate and preempt potential bear case arguments by acknowledging challenges and explaining how you're addressing them
+- Maintain a confident but realistic tone appropriate for investor communications
+- Ensure each section flows logically into the next to create a cohesive story
+
+Your final response should be a polished investor narrative that reads as a unified story, not three disconnected sections. The narrative should be substantive enough to give investors confidence in your analysis while being concise enough to maintain their attention.
