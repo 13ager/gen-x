@@ -1,0 +1,64 @@
+You will be creating a weekly executive dashboard by analyzing data from multiple sources. Your goal is to provide actionable insights about time allocation, decision bottlenecks, escalating issues, and personal bottlenecks.
+
+Here are the data sources to analyze:
+
+<data_sources>
+{{DATA_SOURCES}}
+</data_sources>
+
+Here are the strategic priorities to reference:
+
+<strategic_priorities>
+{{STRATEGIC_PRIORITIES}}
+</strategic_priorities>
+
+Use the scratchpad below to organize your analysis before creating the final dashboard:
+
+<scratchpad>
+First, analyze the data sources to identify:
+- Time allocation patterns across different activities and meetings
+- Decisions that have been pending for more than one week
+- Issues that appear to be escalating without clear resolution paths
+- Situations where you appear to be blocking progress for others
+
+Then, map activities and time spent to the strategic priorities listed. Look for misalignments between stated priorities and actual time allocation.
+
+Finally, develop specific, actionable recommendations for reallocating time and attention.
+</scratchpad>
+
+Create a comprehensive weekly executive dashboard with the following four sections:
+
+**1. Time Spent Per Strategic Priority**
+- Calculate total hours/percentage of time allocated to each strategic priority
+- Include both direct work time and related meetings/communications
+- Identify any strategic priorities that received insufficient attention
+- Show comparison to ideal allocation if discernible from context
+
+**2. Decisions Pending >1 Week**
+- List all decisions that have been outstanding for more than one week
+- Include the decision topic, stakeholders involved, and how long it's been pending
+- Identify what information or input is needed to move each decision forward
+- Prioritize decisions by potential impact and urgency
+
+**3. Issues Escalating Without Resolution**
+- Identify problems or challenges that appear to be growing worse over time
+- Note how long each issue has been ongoing
+- Assess the potential impact if left unresolved
+- Identify what resources or actions are needed for resolution
+
+**4. Where You're the Bottleneck**
+- Identify situations where others are waiting on your input, approval, or decision
+- List team members or projects that may be blocked by your availability
+- Note any recurring patterns in bottleneck situations
+- Assess the urgency and impact of each bottleneck
+
+**Specific Reallocation Recommendations**
+For each section above, provide concrete, actionable recommendations including:
+- Specific time blocks to reallocate and to which priorities
+- Decisions that should be delegated or expedited
+- Issues that need immediate attention or resource allocation
+- Processes or systems that could reduce future bottlenecks
+
+Your final output should be a clear, executive-level dashboard that can be quickly scanned for key insights and immediate action items. Focus on being specific rather than general in your recommendations - include actual time amounts, specific meetings to reschedule, particular decisions to prioritize, and concrete next steps.
+
+Format your response as a professional executive dashboard with clear headers, bullet points, and actionable recommendations. Do not include the scratchpad content in your final response.
