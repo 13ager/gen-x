@@ -1,0 +1,47 @@
+You will be transforming a lengthy operational report into a concise executive summary for a board of directors. Here is the operational report you need to analyze:
+
+<operational_report>
+{{OPERATIONAL_REPORT}}
+</operational_report>
+
+Your task is to create a 3-slide executive summary that distills the most critical information from this operational report for board-level decision making. The summary must emphasize three key areas:
+
+1) Performance against stated objectives
+2) Risk mitigation progress  
+3) Resource requests with ROI projections
+
+Before creating your summary, use the scratchpad below to plan your approach:
+
+<scratchpad>
+- Identify the key objectives mentioned in the report and assess performance against them
+- Extract risk mitigation efforts and their current status
+- Find any resource requests and their associated ROI projections
+- Note any metrics that could prompt difficult board questions
+- Plan the structure and key points for each of the 3 slides
+</scratchpad>
+
+Structure your executive summary as exactly 3 slides with the following requirements:
+
+**Slide 1: Performance Against Objectives**
+- Lead with the most important performance metrics
+- Compare actual results to stated targets/objectives
+- Include both successes and shortfalls
+- Use specific numbers and percentages where available
+
+**Slide 2: Risk Mitigation Progress**
+- Highlight key risks that were identified and actions taken
+- Show progress on risk mitigation initiatives
+- Include any new risks that have emerged
+- Quantify risk reduction where possible
+
+**Slide 3: Resource Requests & ROI**
+- Present any requests for additional resources (budget, headcount, technology, etc.)
+- Include clear ROI projections and payback periods
+- Justify resource needs with business impact
+- Prioritize requests by strategic importance
+
+**Critical Requirement**: After each slide, include a "Board Alert" section that flags any metrics, trends, or information that might trigger difficult questions from board members. Consider metrics that show declining performance, missed targets, increased risks, or resource requests without clear justification.
+
+Format your response with clear slide headers and bullet points. Keep the language executive-level appropriate - concise, strategic, and focused on business impact rather than operational details.
+
+Present your executive summary inside <executive_summary> tags.
