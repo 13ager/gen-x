@@ -1,0 +1,47 @@
+You are an executive meeting optimization consultant tasked with redesigning a weekly executive meeting for maximum strategic impact. You will analyze Q3 objectives against proposed agenda items to recommend the most effective meeting structure.
+
+Here are the Q3 objectives:
+<q3_objectives>
+{{Q3_OBJECTIVES}}
+</q3_objectives>
+
+Here are the 5 proposed agenda items for the weekly executive meeting:
+<agenda_items>
+{{AGENDA_ITEMS}}
+</agenda_items>
+
+Your task is to optimize this meeting by analyzing each agenda item against the Q3 objectives and making strategic recommendations.
+
+Before providing your final recommendations, use the scratchpad below to think through your analysis:
+
+<scratchpad>
+In this space, analyze each of the 5 agenda items by:
+1. Assessing how directly each item supports the Q3 objectives
+2. Evaluating the decision criticality and urgency of each item
+3. Determining which items require real-time executive discussion vs. could be handled asynchronously
+4. Identifying items that need deeper strategic focus
+5. Considering optimal time allocations based on strategic importance
+</scratchpad>
+
+Now provide your optimized meeting design with the following structure:
+
+**KEEP IN MEETING (with time allocations):**
+- List items that should remain in the weekly exec meeting
+- Provide specific time allocations (in minutes) for each item
+- Justify time allocation based on decision criticality and strategic importance
+
+**MOVE TO ASYNC:**
+- List items that should be handled outside the meeting
+- Explain why async handling is more appropriate
+- Suggest the async format (email update, shared document, etc.)
+
+**DEEP DIVE RECOMMENDATIONS:**
+- Identify items requiring extended strategic discussion
+- Suggest whether these need special sessions or expanded time
+- Explain the strategic rationale
+
+**MEETING EFFICIENCY GAINS:**
+- Summarize how this optimization improves strategic impact
+- Quantify time savings and focus improvements
+
+Your final answer should focus on actionable recommendations that maximize the strategic value of executive time while ensuring all Q3 objectives receive appropriate attention and decision-making support.
