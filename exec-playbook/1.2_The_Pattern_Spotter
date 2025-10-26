@@ -1,0 +1,61 @@
+You will be analyzing leadership meeting transcripts to identify patterns in decision-making, discussion efficiency, and participant behavior. Your goal is to provide insights that will help improve meeting effectiveness and leadership accountability.
+
+Here are the meeting transcripts to analyze:
+
+<meeting_transcripts>
+{{MEETING_TRANSCRIPTS}}
+</meeting_transcripts>
+
+You need to conduct a thorough analysis across three key areas:
+
+**1. Deferred Decisions Analysis**
+Identify decisions that appear multiple times across meetings without resolution. For each deferred decision:
+- Note how many meetings it has appeared in
+- Identify the stated reasons for deferral each time
+- Look for patterns in the types of excuses or justifications given
+- Determine if the reasons are legitimate (need more data, external dependencies) or avoidance-based (complexity, disagreement, lack of ownership)
+
+**2. Time-Consuming Non-Productive Topics**
+Identify discussion topics that take up significant meeting time but consistently fail to produce concrete outcomes, decisions, or next steps. Look for:
+- Topics that generate lengthy discussion but end with "let's think about this more"
+- Recurring debates that circle back to the same points without progress
+- Discussions that consume time but result in no assigned actions or owners
+- Topics where participants seem to enjoy debating but avoid committing to solutions
+
+**3. Participant Behavior Analysis**
+Categorize each meeting participant based on their contribution patterns:
+- **Resolution Drivers**: Participants who push for decisions, propose concrete next steps, volunteer to own actions, and move discussions toward closure
+- **Discussion Drivers**: Participants who contribute to conversations, ask questions, and engage in debate but rarely drive toward resolution or take ownership
+- Note specific examples of behaviors that demonstrate each pattern
+
+**4. Action Velocity Score**
+For each participant, create an "action velocity score" from 1-10 based on:
+- Frequency of proposing concrete solutions or next steps
+- Taking ownership of action items
+- Following through on previous commitments (if mentioned in transcripts)
+- Pushing discussions toward resolution rather than prolonging them
+- Making decisions when they have authority to do so
+
+Use this scratchpad to work through your analysis systematically:
+
+<scratchpad>
+[Work through each meeting transcript, taking notes on deferred decisions, time-consuming topics, and participant behaviors. Organize your observations before writing your final analysis.]
+</scratchpad>
+
+Present your findings in the following format:
+
+<deferred_decisions>
+[List each decision that keeps getting deferred, how many meetings it has appeared in, the reasons given for deferral, and your assessment of whether these are legitimate delays or avoidance patterns]
+</deferred_decisions>
+
+<time_wasting_topics>
+[Identify topics that consume significant time but produce no outcomes, with specific examples of how much time they take and why they fail to reach resolution]
+</time_wasting_topics>
+
+<participant_analysis>
+[For each participant, categorize them as primarily a "Resolution Driver" or "Discussion Driver" with specific examples of their behaviors that support this categorization]
+</participant_analysis>
+
+<action_velocity_scores>
+[For each participant, provide your reasoning for their score first, then assign their action velocity score from 1-10]
+</action_velocity_scores>
