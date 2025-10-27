@@ -1,6 +1,6 @@
 # gen-x prompts
 
-*The slacker generation's guide to working smarter, not obsolete*
+*The slacker generation's guide to working smarter, not harder*
 
 Remember when we were the "whatever" generation? Well, whatever got us through corporate downsizing, dot-com busts, and teaching our parents how to use email. Now it's time to show these AI tools who really knows how to hack the system.
 
@@ -15,7 +15,6 @@ You bought the white paper (thanks, seriously). You got the appetizer-sized prom
 3. **Copy, customize, conquer**
 4. **Share with your fellow Xers** (but maybe not your millennial manager)
 
-## Prompt categories
 
 ## Prompt categories
 
