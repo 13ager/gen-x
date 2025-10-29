@@ -1,53 +1,21 @@
-# gen-x prompts
+# Gen X AI Prompt Library
 
-*The slacker generation's guide to working smarter, not harder*
+**No fate but what we make**
 
-Remember when we were the "whatever" generation? Well, whatever got us through corporate downsizing, dot-com busts, and teaching our parents how to use email. Now it's time to show these AI tools who really knows how to hack the system.
+This is the prompt library for the **GenX AI Playbook**. Battle-tested prompts for leaders who refuse to become obsolete.
 
-## What's this about?
+## Executive Survival Guide Prompts
 
-You bought the white paper (thanks, seriously). You got the appetizer-sized prompts. Now here's the full buffet—complete, copy-paste-ready prompts that actually work. No fluff, no "10x your productivity" BS, just practical tools for people who've been getting shit done since before Slack was a thing.
+Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's AI Survival Guide](link-to-stan-store-when-live).
 
-## How to use this repository
+- [01 - Strategic Email Response](./executive-survival-guide/01-strategic-email-response.md)
+- [02 - Meeting Brief Generator](./executive-survival-guide/02-meeting-brief-generator.md)
+- ... (continue for all 20)
 
-1. **Find your prompt category** below
-2. **Click through** to the full prompt file
-3. **Copy, customize, conquer**
-4. **Share with your fellow Xers** (but maybe not your millennial manager)
+---
 
-
-## Prompt categories
-
-### 🎯 The 7 Power Prompts from the White Paper
-*The core arsenal from "The Gen X Executive's AI Survival Guide: 7 Power Prompts to Stay Indispensable in 2025 (with Tools)"*
-
-1. **[Executive Decision Acceleration](./power-prompts/01-executive-decision-acceleration.md)**  
-   Cut through analysis paralysis with frameworks that actually respect your experience
-
-2. **[Meeting Intelligence & Performance Insights](./power-prompts/02-meeting-intelligence-performance.md)**  
-   Transform meeting notes into actionable intelligence and spot performance patterns before HR does
-
-3. **[Strategic Financial Foresight](./power-prompts/03-strategic-financial-foresight.md)**  
-   Financial analysis that speaks CFO while keeping your strategic edge sharp
-
-4. **[Brand & Reputation Command Center](./power-prompts/04-brand-reputation-command.md)**  
-   Monitor and manage your brand like it's 1999 but with 2025 tools
-
-5. **[Workforce AI-Readiness Audit](./power-prompts/05-workforce-ai-readiness.md)**  
-   Assess your team's AI readiness without the consultant price tag
-
-6. **[Leadership Communication Coach](./power-prompts/06-leadership-communication-coach.md)**  
-   Craft messages that land—from all-hands emails to difficult conversations
-
-7. **[Knowledge Codex Builder](./power-prompts/07-knowledge-codex-builder.md)**  
-   Turn decades of institutional knowledge into searchable, usable intelligence
-
-*Got the white paper? These are the full, uncut versions of what you sampled. No paywall, no email capture, just the goods.*
-
-### 💼 Additional prompts by category
-[Rest of the categories follow below...]
-
-
+**Want the full playbook?** → [Download here](link-to-stan-store)  
+**Follow the work:** → [@sarenai on Substack](https://sarenai.substack.com)
 
 
 ## Why Gen X needs this
@@ -84,4 +52,6 @@ MIT - Because we remember when software was actually free, not "freemium"
 
 *Built for the generation that's too young to retire and too experienced to be ignored.*
 
-*Part of the "Keep Gen-X Indispensable" initiative by [@13ager](https://github.com/13ager)*
+*Part of the "Keep Gen-X Indispensable" initiative by [@saren-ai](https://github.com/saren-ai)*
+
+[No Fate](https://terminator.fandom.com/wiki/No_Fate_(quote))
