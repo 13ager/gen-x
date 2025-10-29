@@ -8,9 +8,30 @@ This is the prompt library for the **GenX AI Playbook**. Battle-tested prompts f
 
 Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's AI Survival Guide](link-to-stan-store-when-live).
 
-- [01 - Strategic Email Response](./executive-survival-guide/01-strategic-email-response.md)
-- [02 - Meeting Brief Generator](./executive-survival-guide/02-meeting-brief-generator.md)
-- ... (continue for all 20)
+## Executive Survival Guide
+
+- [1.1_The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.1_The_Pre-Meeting_Oracle)
+- [1.2_The_Pattern_Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.2_The_Pattern_Spotter)
+- [1.3_Workplace_Politics_Strategic_Analysis](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.3_Workplace_Politics_Strategic_Analysis)
+- [1.4_ Meeting_Transcript_Action_Items](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.4_%20Meeting_Transcript_Action_Items)
+- [1.5_The_Agenda_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.5_The_Agenda_Optimizer)
+- [2.1_The_Board_Whisperer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.1_The_Board_Whisperer)
+- [2.2_The_Multi-Generation_Translator](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.2_The_Multi-Generation_Translator)
+- [2.3_The_Investor_Narrative_Builder](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.3_The_Investor_Narrative_Builder)
+- [2.4_The_Crisis_Response_Architect](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.4_The_Crisis_Response_Architect)
+- [2.5_The_Culture_Pulse_Decoder](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.5_The_Culture_Pulse_Decoder)
+- [3.1_The_Scenario_Engine](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.1_The_Scenario_Engine)
+- [3.2_Decision-Making_Analyst](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.2_Decision-Making_Analyst)
+- [3.3_Market_Intelligence_Analyst](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.3_Market_Intelligence_Analyst)
+- [3.4_Resource_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.4_Resource_Allocation_Optimizer)
+- [3.5_Strategic_Risk_Manager](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.5_Strategic_Risk_Manager)
+- [4.1_Strategic_Initiative_Portfolio_Audit](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.1_Strategic_Initiative_Portfolio_Audit)
+- [4.2_Executive_Dashboard_Generator](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.2_Executive_Dashboard_Generator)
+- [4.3_Task_Delegation_Analyst](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.3_Task_Delegation_Analyst)
+- [4.4_Energy_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.4_Energy_Allocation_Optimizer)
+- [4.5_Strategic_Progress_Tracker](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.5_Strategic_Progress_Tracker)
+- [readme.md](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/readme.md)
+
 
 ---
 
