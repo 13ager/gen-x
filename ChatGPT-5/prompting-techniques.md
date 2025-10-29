@@ -1,7 +1,8 @@
-# GPT-5 Prompting Playbook for Senior Leaders
+# GPT-5 Prompting Playbook for Senior Leaders v3
 
 > **How to think *with*, not just *through*, AI**  
-> A tactical guide for Gen X executives who remember when "CC" meant carbon copy
+> A tactical guide for Gen X executives who remember when "CC" meant carbon copy  
+> *Now with Tree-of-Thought, Chain-of-Thought, Reflexion, and other computational patterns that matter*
 
 ---
 
@@ -15,7 +16,7 @@ You've survived the shift from memos to email, desktop to cloud, and waterfall t
 
 ## The Essential Ten
 
-### 1. Structured Reasoning for Complex Problems
+### 1. Structured Reasoning for Complex Problems (Chain-of-Thought)
 
 **Pattern:**
 ```
@@ -32,11 +33,11 @@ without tanking Q3 pipeline. Consider: comp plans, team structure, and
 customer success handoffs. Show your reasoning, then give me the 90-day plan.
 ```
 
-**Why it works:** Forces systematic thinking vs. GPT's tendency to leap to conclusions. You get the logic chain, not just the answer.
+**Why it works:** Forces systematic thinking vs. GPT's tendency to leap to conclusions. You get the logic chain, not just the answer. This is "Chain-of-Thought" prompting—making AI think like you do in strategic planning sessions.
 
 ---
 
-### 2. Draft → Debrief → Deliver
+### 2. Draft → Debrief → Deliver (Reflexion)
 
 **Pattern:**
 ```
@@ -52,7 +53,7 @@ Then critique it as our most skeptical board member would.
 Finally, rewrite it to pre-empt those concerns.
 ```
 
-**Why it works:** Mimics the review cycles you already do, but in seconds. No more "I should have anticipated that question."
+**Why it works:** Mimics the review cycles you already do, but in seconds. No more "I should have anticipated that question." This is "Reflexion" in action—AI improving its own output through self-critique.
 
 ---
 
@@ -227,6 +228,148 @@ Transform into a crisp all-hands message.
 
 ---
 
+## Technical Foundations
+
+*The computational patterns that power executive thinking—now yours to command*
+
+### Tree-of-Thought (Parallel Strategic Exploration)
+
+**Pattern:**
+```
+I need to make a decision about [strategic choice].
+Explore these paths simultaneously:
+- Path A: [approach with assumptions]
+- Path B: [different approach]
+- Path C: [third approach]
+
+For each path:
+1. Map outcomes at 3, 6, 12 months
+2. List dependencies and failure points
+3. Calculate resources (time, money, people)
+4. Score on: ROI, risk, strategic alignment
+
+Compare all three, then recommend with rationale for why you rejected the others.
+```
+
+**Live Example:**
+```
+Decision: How to enter the enterprise market with our SMB product.
+Path A: Enterprise-specific product fork
+Path B: Premium tier with enterprise features
+Path C: Acquisition of enterprise competitor
+
+[Full analysis per above]
+Recommend with explicit rejection reasoning.
+```
+
+**Why it works:** Unlike human thinking that follows one thread, GPT can hold multiple strategic branches in parallel—like running three board meetings simultaneously.
+
+---
+
+### Prompt Chaining (Multi-Stage Workflows)
+
+**Pattern:**
+```
+Chain of 4 prompts where each output feeds the next:
+Prompt 1: [First task] → Output A
+Prompt 2: Using Output A, [Second task] → Output B
+Prompt 3: Using Output B, [Third task] → Output C
+Prompt 4: Using Output C, [Final deliverable]
+```
+
+**Live Example:**
+```
+Prompt 1: List our top 5 competitive vulnerabilities
+Prompt 2: Using that list, design defensive strategies for each
+Prompt 3: Using those strategies, create resource allocation plan
+Prompt 4: Using that plan, draft board presentation with trade-offs
+```
+
+**Why it works:** Mimics how senior teams actually work—each meeting builds on the last, but compressed into minutes.
+
+---
+
+### ReAct (Reason → Act → Observe)
+
+**Pattern:**
+```
+Task: [What you need to accomplish]
+Step 1 - Reasoning: Think through how to approach this
+Step 2 - Action Plan: List specific steps you'll take
+Step 3 - Execute: Perform each step, showing work
+Step 4 - Observe: Assess results and adjust if needed
+Step 5 - Deliver: Final output with confidence level
+```
+
+**Live Example:**
+```
+Task: Determine if we should sunset our legacy product
+
+Step 1 - Reasoning: Need to analyze revenue, costs, strategic fit, and migration path
+Step 2 - Action Plan: 
+  a) Calculate revenue contribution and trajectory
+  b) Assess technical debt and maintenance burden
+  c) Map customer dependencies
+  d) Design migration strategy
+Step 3 - Execute: [Shows each analysis]
+Step 4 - Observe: Migration risk higher than expected, need phased approach
+Step 5 - Deliver: Recommend 18-month sunset with three phases
+```
+
+**Why it works:** Makes reasoning transparent and adjustable—like having your strategy team show their homework.
+
+---
+
+### Generate Knowledge (Domain Expertise On-Demand)
+
+**Pattern:**
+```
+Explain [concept/framework/technique] with:
+1. Core definition (one paragraph)
+2. Key components (numbered list)
+3. Real-world application example
+4. Common mistakes to avoid
+5. How to measure success
+```
+
+**Live Example:**
+```
+Explain "Jobs-to-be-Done" framework with:
+1. Core definition
+2. Key components
+3. Real example from B2B SaaS
+4. Common mistakes product teams make
+5. KPIs to track progress
+```
+
+**Why it works:** Instant expertise transfer—like having Clayton Christensen on speed dial.
+
+---
+
+### RAG Pattern (Real-Time Intelligence)
+
+**Pattern:**
+```
+Research current information on [topic].
+Sources: Look for data from last [timeframe]
+Synthesis: Combine findings to answer [specific question]
+Perspective: Analyze through lens of [your context]
+Recommendation: Action items based on current landscape
+```
+
+**Live Example:**
+```
+Research current state of AI regulation in financial services.
+Sources: Last 90 days of regulatory announcements
+Synthesis: What compliance requirements are emerging?
+Perspective: We're a fintech with AI-driven underwriting
+Recommendation: Compliance roadmap for next 6 months
+```
+
+**Why it works:** Bridges the gap between GPT's training data and today's reality—essential for time-sensitive decisions.
+
+---
+
 ## Advanced Patterns
 
 ### The Canonical Reference
@@ -278,6 +421,10 @@ Include second-order effects.
 | Overwhelming detail | Add "Executive summary first, then support" |
 | Missing nuance | Add "Consider edge cases and exceptions" |
 | Dated references | Add "Use examples from 2024-2025" |
+| Single-path thinking | Use Tree-of-Thought: "Explore multiple approaches simultaneously" |
+| Losing context in chains | Add "Carry forward key context: [essentials]" between prompts |
+| Shallow knowledge transfer | Use Generate Knowledge: "Include implementation details and metrics" |
+| Stale data assumptions | Use RAG: "Search for current data on this topic first" |
 
 ---
 
@@ -295,11 +442,22 @@ a useful answer. Ask me clarifying questions if needed.
 
 ## Quick Reference Card
 
-**For Strategy**: Use Progressive Deepening or Scenario Branching  
-**For Communication**: Use Draft → Debrief → Deliver or Clarity Refinery  
-**For Decision-Making**: Use Stress Test or Cognitive Diversity Simulator  
-**For Planning**: Use Bezos Method or What-If Machine  
-**For Problem-Solving**: Use Structured Reasoning or Synthesis Engine  
+### By Situation
+**For Strategy**: Tree-of-Thought, Progressive Deepening, or Scenario Branching  
+**For Communication**: Draft → Debrief → Deliver or Clarity Refinery  
+**For Decision-Making**: Tree-of-Thought, Stress Test, or Cognitive Diversity Simulator  
+**For Planning**: Bezos Method, ReAct, or What-If Machine  
+**For Problem-Solving**: Structured Reasoning (Chain-of-Thought) or Synthesis Engine  
+**For Workflows**: Prompt Chaining or ReAct  
+**For Learning**: Generate Knowledge or Progressive Deepening  
+**For Current Events**: RAG Pattern or Synthesis Engine with recent data
+
+### By Thinking Style
+**Linear thinkers**: Chain-of-Thought, ReAct, Prompt Chaining  
+**Parallel processors**: Tree-of-Thought, Scenario Branching  
+**Critics**: Stress Test, Reflexion (Draft → Debrief → Deliver)  
+**Synthesizers**: RAG Pattern, Synthesis Engine  
+**Explorers**: Generate Knowledge, What-If Machine  
 
 ---
 
@@ -326,4 +484,7 @@ Refined through real-world application with Fortune 500 executives.
 
 ### Version
 
-v2.0 - Updated for GPT-5 capabilities (January 2025)
+v03 10/29/2025
+v3.0 - Comprehensive edition with technical patterns integrated (January 2025)  
+v2.0 - Updated for GPT-5 capabilities  
+v1.0 - Original GPT-4 version
