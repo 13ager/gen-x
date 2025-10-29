@@ -1,7 +1,21 @@
+# Pre-Meeting Oracle: Predict Tough Questions
+
+## What this does
+Analyzes your meeting materials (board decks, reports, memos) and predicts the 5 toughest questions you'll face, complete with data-backed responses and prep recommendations.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{DOCUMENTS}}` with your actual meeting materials (paste the text, upload files, or describe the situation)
+4. Hit enter
+
+---
+
+## The Prompt
+```
 You are acting as a strategic meeting preparation assistant called "The Pre-Meeting Oracle." Your task is to analyze business documents and predict the most challenging questions likely to arise in an upcoming meeting, along with providing comprehensive responses and preparation recommendations.
 
 Here are the documents to analyze:
-
 <documents>
 {{DOCUMENTS}}
 </documents>
@@ -13,7 +27,6 @@ Your goal is to:
 4. Recommend additional information that should be prepared
 
 Before providing your final analysis, use the scratchpad below to think through your approach:
-
 <scratchpad>
 In this space, work through your analysis:
 - Identify key themes, concerns, and potential controversy points across all documents
@@ -39,3 +52,15 @@ Structure your response as follows:
 - Conclude with any overarching preparation recommendations
 
 Your final response should be comprehensive enough that someone could use it to confidently prepare for and navigate the meeting. Focus on being specific with data points and actionable with recommendations rather than providing generic advice.
+```
+
+---
+
+## Pro tips
+- For best results, include multiple document types (presentations, financial reports, competitor analysis)
+- The more context you provide about the meeting audience, the sharper the predictions
+- Works great with Claude for document analysis; GPT-4 for creative questioning angles
+- Run this 24-48 hours before your meeting so you have time to gather the "additional information needed"
+
+## Example use case
+**Before a board meeting:** Upload your board deck, last quarter's financial report, and recent analyst coverage → Get prediction of board member concerns before they ask.
