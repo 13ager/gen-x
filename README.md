@@ -12,7 +12,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's 
 
 - [1.1_The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.1_The_Pre-Meeting_Oracle)
 - [1.2_The_Pattern_Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.2_The_Pattern_Spotter)
-- [1.3_Workplace_Politics_Strategic_Analysis](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.3_Workplace_Politics_Strategic_Analysis)
+- [1.3_The Political Chess Master](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.3_The_Political_Chess_Master)
 - [1.4_ Meeting_Transcript_Action_Items](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.4_%20Meeting_Transcript_Action_Items)
 - [1.5_The_Agenda_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.5_The_Agenda_Optimizer)
 - [2.1_The_Board_Whisperer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.1_The_Board_Whisperer)
