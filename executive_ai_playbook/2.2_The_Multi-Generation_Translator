@@ -1,3 +1,18 @@
+# 2.2 Multi-Generation Translator: One Message, Five Audiences
+
+## What this does
+Rewrites important announcements (restructuring, policy changes, strategic pivots) for maximum clarity across your multi-generational workforce. Creates optimized versions for Boomers, Gen X, Millennials, and Gen Z—each addressing their specific concerns and communication preferences while maintaining message consistency.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{ANNOUNCEMENT}}` with your message or policy change
+4. Hit enter
+
+---
+
+## The Prompt
+
 You will be rewriting a corporate restructuring announcement to maximize clarity and effectiveness across different generational cohorts in the workforce. Your goal is to tailor the messaging to resonate with each generation's values and concerns while maintaining the core information.
 
 Here is the restructuring announcement you need to rewrite:
