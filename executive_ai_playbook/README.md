@@ -8,7 +8,7 @@
 
 **New to this?** Start here:
 1. Read [GETTING_STARTED.md](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/GETTING_STARTED.md)
-2. Try [Pre-Meeting Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md) tomorrow morning
+2. Try [Pre-Meeting Oracle](executive_ai_playbook/1.1_The_Pre-Meeting_Oracle) tomorrow morning
 3. Report back on results
 
 ## 📁 The 20 Prompts
