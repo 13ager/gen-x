@@ -1,3 +1,18 @@
+# 2.1 Board Whisperer: Transform Reports into Strategic Decks
+
+## What this does
+Transforms lengthy operational reports into concise 3-slide executive summaries optimized for board discussions. Emphasizes performance against objectives, risk mitigation progress, and resource requests with ROI projections—while flagging metrics that might trigger difficult questions.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{REPORT}}` with your operational report or attach the document
+4. Hit enter
+
+---
+
+## The Prompt
+
 You will be transforming a lengthy operational report into a concise executive summary for a board of directors. Here is the operational report you need to analyze:
 
 <operational_report>
