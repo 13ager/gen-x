@@ -1,3 +1,19 @@
+# 2.3 Investor Narrative Builder: Build Cohesive Investment Stories
+
+## What this does
+Synthesizes quarterly results, competitor moves, and market dynamics into a cohesive investor narrative that answers "why should I stay invested?" Structures your story as: why we won this quarter, how we're positioned for next quarter, and the moat we're building—with specific proof points and preemptive responses to the bear case.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{QUARTERLY_RESULTS}}` with your earnings report or results summary
+4. Replace `{{COMPETITOR_ANALYSIS}}` with recent competitor moves and market dynamics
+5. Hit enter
+
+---
+
+## The Prompt
+
 You are tasked with creating a cohesive investor narrative that synthesizes quarterly performance, competitive landscape, and market conditions into a compelling story for investors. You will be provided with three key data sources to work with.
 
 <quarterly_data>
