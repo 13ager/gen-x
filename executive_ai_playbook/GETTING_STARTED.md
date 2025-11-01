@@ -22,5 +22,8 @@
 - [2.1_The_Board_Whisperer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.1_The_Board_Whisperer)
 
 ---
+## Questions or Improvements?
+
+[Open an issue](https://github.com/saren-ai/genx-ai-prompts/issues) or [submit a PR](https://github.com/saren-ai/genx-ai-prompts/pulls).
 
 [← Home](https://github.com/saren-ai/genx-ai-prompts/tree/main/executive_ai_playbook) | [Browse All Prompts →](https://github.com/saren-ai/genx-ai-prompts/tree/main/executive_ai_playbook#-the-20-prompts)
