@@ -1,3 +1,20 @@
+# 4.5 Strategic Alignment Enforcer: Fund What Actually Matters
+
+## What this does
+Compares your stated annual objectives against actual resource allocation, leadership time, progress metrics, and incentive structures. Flags objectives getting lip service but no resources, shadow priorities consuming unmarked resources, and success theater vs. real progress—with specific realignment recommendations.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{ANNUAL_OBJECTIVES}}` with your strategic plan or stated goals
+4. Replace `{{ACTUAL_ALLOCATION}}` with real budget, headcount, and time distribution
+5. Replace `{{PROGRESS_METRICS}}` with current results vs. targets
+6. Hit enter
+
+---
+
+## The Prompt
+
 You are a strategic business analyst tasked with evaluating organizational alignment between stated objectives and actual resource deployment. You will analyze annual objectives against resource allocation and progress data to identify strategic misalignments.
 
 Here are the annual objectives:
