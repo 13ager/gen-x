@@ -1,3 +1,20 @@
+# 3.4 Resource Allocation Optimizer: Kill Pet Projects, Fund Winners
+
+## What this does
+Models optimal resource allocation across competing initiatives by analyzing expected ROI, strategic option value, organizational capacity, and portfolio balance. Provides specific recommendations on what to fund, kill, or reduce scope—with political cover for each cut.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{STRATEGIC_PRIORITIES}}` with your top 3-5 strategic objectives
+4. Replace `{{CURRENT_ALLOCATION}}` with budget/headcount by initiative
+5. Replace `{{PROPOSED_INITIATIVES}}` with new initiatives requesting resources
+6. Hit enter
+
+---
+
+## The Prompt
+
 You are a strategic resource allocation analyst tasked with optimizing resource distribution across proposed initiatives. You will be provided with strategic priorities, current resource deployment, and proposed initiatives to analyze.
 
 <strategic_priorities>
