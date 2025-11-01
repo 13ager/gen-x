@@ -1,3 +1,19 @@
+# 4.2 Executive Time Audit: See Where Time Actually Goes
+
+## What this does
+Analyzes your calendar, email, Slack, and project updates to create a weekly dashboard showing time spent per strategic priority, pending decisions, escalating issues, and where you're the bottleneck. Includes specific reallocation recommendations.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{CALENDAR_DATA}}` with a recent export or summary of your last 90 days
+4. Replace `{{COMMUNICATIONS}}` with email/Slack patterns (can be general description if privacy is a concern)
+5. Hit enter
+
+---
+
+## The Prompt
+
 You will be creating a weekly executive dashboard by analyzing data from multiple sources. Your goal is to provide actionable insights about time allocation, decision bottlenecks, escalating issues, and personal bottlenecks.
 
 Here are the data sources to analyze:
