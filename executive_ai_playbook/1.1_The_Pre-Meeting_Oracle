@@ -65,10 +65,9 @@ Your final response should be comprehensive enough that someone could use it to 
 ## Example use case
 **Before a board meeting:** Upload your board deck, last quarter's financial report, and recent analyst coverage → Get prediction of board member concerns before they ask.
 
+---
 ## Questions or Improvements?
 
 [Open an issue](https://github.com/saren-ai/genx-ai-prompts/issues) or [submit a PR](https://github.com/saren-ai/genx-ai-prompts/pulls).
 
----
-
-← [Back to All Prompts](https://github.com/saren-ai/genx-ai-prompts/tree/main/executive_ai_playbook) | [Next: 1.2 Pattern Spotter →](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.2_The_Pattern_Spotter.md)
+[← Home](https://github.com/saren-ai/genx-ai-prompts/tree/main/executive_ai_playbook) | [Browse All Prompts →](https://github.com/saren-ai/genx-ai-prompts/tree/main/executive_ai_playbook#-the-20-prompts)
