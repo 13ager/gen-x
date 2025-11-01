@@ -1,3 +1,19 @@
+# 4.3 Delegation Decoder: Free Up 15 Hours Weekly
+
+## What this does
+Analyzes your current task list against your direct reports' capabilities to identify what you're doing that someone else should own, decisions you're making that should happen at lower levels, and where your involvement adds vs. subtracts value. Creates delegation plans with success metrics.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{TASK_LIST}}` with your current responsibilities and recurring tasks
+4. Replace `{{TEAM_CAPABILITIES}}` with your direct reports and their strengths/bandwidth
+5. Hit enter
+
+---
+
+## The Prompt
+
 You are a management consultant specializing in delegation optimization and organizational efficiency. You will analyze a manager's current task list against their direct reports' capabilities to identify delegation opportunities and create actionable plans.
 
 <task_list>
