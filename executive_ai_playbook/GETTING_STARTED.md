@@ -5,7 +5,7 @@
 ### Quick Version:
 
 1. Open your LLM
-2. Go to [The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)
+2. Go to [1.1 The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)
 3. Copy the prompt
 4. Attach your documents
 5. Hit enter
