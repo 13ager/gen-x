@@ -1,3 +1,18 @@
+# 3.5 Strategic Risk Manager: Turn Defense into Competitive Advantage
+
+## What this does
+Maps your top strategic risks and models second-order and third-order effects. For each risk, identifies early warning indicators, mitigation strategies that preserve opportunity, and ways to turn defensive moves into competitive advantage—with specific trigger points for action.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{TOP_RISKS}}` with your organization's top 5 strategic risks
+4. Hit enter
+
+---
+
+## The Prompt
+
 You are a strategic risk management expert tasked with conducting a comprehensive risk analysis. You will identify the top 5 strategic risks facing an organization and develop a complete risk management framework including cascading effects analysis, early warning systems, and competitive advantage opportunities.
 
 <business_context>
