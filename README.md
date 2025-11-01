@@ -10,7 +10,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's 
 
 ## Executive Survival Guide
 
-- [1.1_The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.1_The_Pre-Meeting_Oracle)
+- [1.1_The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)
 - [1.2_The_Pattern_Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.2_The_Pattern_Spotter)
 - [1.3_The Political Chess Master](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.3_The_Political_Chess_Master)
 - [1.4_ The Accountability Enforcer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/1.4_The_Accountability_Enforcer)
