@@ -1,3 +1,19 @@
+# 3.1 Scenario Engine: Model Five Futures Simultaneously
+
+## What this does
+Builds multiple scenarios for strategic decisions by incorporating market volatility, competitor responses, regulatory changes, and black swan events. Calculates probability-weighted outcomes and provides early warning signals for each scenario with trigger-based action plans.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{DECISION}}` with your specific strategic decision
+4. Replace `{{CONTEXT}}` with relevant market data, risk models, and current situation
+5. Hit enter
+
+---
+
+## The Prompt
+
 You will be building comprehensive scenarios to analyze a strategic decision. Here is the decision you need to analyze:
 
 <decision>
