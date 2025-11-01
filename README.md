@@ -26,7 +26,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's 
 - [3.4_Resource_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.4_Resource_Allocation_Optimizer)
 - [3.5_Strategic_Risk_Manager](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.5_Strategic_Risk_Manager)
 - [4.1_The_Initiative_Kill_List](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.1_The_Initiative_Kill_List)
-- [4.2_Executive_Dashboard_Generator](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.2_Executive_Dashboard_Generator)
+- [4.2_Executive_Time_Audit](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.2_Executive_Time_Audit)
 - [4.3_Task_Delegation_Analyst](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.3_Task_Delegation_Analyst)
 - [4.4_Energy_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.4_Energy_Allocation_Optimizer)
 - [4.5_Strategic_Progress_Tracker](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.5_Strategic_Progress_Tracker)
