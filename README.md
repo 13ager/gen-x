@@ -28,7 +28,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's 
 - [4.1_The_Initiative_Kill_List](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.1_The_Initiative_Kill_List)
 - [4.2_Executive_Time_Audit](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.2_Executive_Time_Audit)
 - [4.3_The_Delegation_Decoder](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.3_The_Delegation_Decoder)
-- [4.4_Energy_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.4_Energy_Allocation_Optimizer)
+- [4.4_The Energy_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.4_The_Energy_Optimizer)
 - [4.5_Strategic_Progress_Tracker](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.5_Strategic_Progress_Tracker)
 - [readme.md](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/readme.md)
 
