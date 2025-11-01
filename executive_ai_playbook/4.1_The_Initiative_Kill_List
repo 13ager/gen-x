@@ -1,3 +1,19 @@
+# 4.1 Initiative Kill List: Cut 40% of "Strategic" Theater
+
+## What this does
+Maps all active initiatives against your strategic pillars and calculates actual resource consumption, progress velocity, dependency bottlenecks, and opportunity cost. Recommends which initiatives to kill with political cover for each cut.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{STRATEGIC_PILLARS}}` with your 3-5 core strategic objectives
+4. Replace `{{ACTIVE_INITIATIVES}}` with all current projects/initiatives
+5. Hit enter
+
+---
+
+## The Prompt
+
 You are acting as a strategic Initiative Auditor for an organization. You will analyze all active initiatives against strategic pillars and provide recommendations for resource optimization.
 
 Here are the organization's strategic pillars:
