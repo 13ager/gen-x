@@ -22,7 +22,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Gen X Executive's 
 - [2.5_The_Culture_Pulse_Decoder](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/2.5_The_Culture_Pulse_Decoder)
 - [3.1_The_Scenario_Engine](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.1_The_Scenario_Engine)
 - [3.2_The Bias Detector](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.2_The_Bias_Detector)
-- [3.3_Market_Intelligence_Analyst](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.3_Market_Intelligence_Analyst)
+- [3.3_The_Weak Signal Detector](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.3_The_Weak_Signal_Detector)
 - [3.4_Resource_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.4_Resource_Allocation_Optimizer)
 - [3.5_Strategic_Risk_Manager](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/3.5_Strategic_Risk_Manager)
 - [4.1_Strategic_Initiative_Portfolio_Audit](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive-survival-guide/4.1_Strategic_Initiative_Portfolio_Audit)
