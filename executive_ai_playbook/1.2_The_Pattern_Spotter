@@ -1,3 +1,18 @@
+# 1.2 Pattern Spotter: Identify High-Value Meetings
+
+## What this does
+Reviews your recent meeting transcripts to identify recurring patterns—decisions that keep getting deferred, topics that consume time without outcomes, and who actually drives resolution vs. discussion. Creates an "action velocity score" for each participant and recommends structural changes to reclaim wasted time.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{MEETING_TRANSCRIPTS}}` with transcripts or summaries from your last 6 leadership meetings
+4. Hit enter
+
+---
+
+## The Prompt
+
 You will be analyzing leadership meeting transcripts to identify patterns in decision-making, discussion dynamics, and participant effectiveness. Your goal is to spot recurring issues and evaluate how different participants contribute to actionable outcomes.
 
 <meeting_transcripts>
