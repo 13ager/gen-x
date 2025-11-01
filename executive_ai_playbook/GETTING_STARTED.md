@@ -5,7 +5,7 @@
 ### Quick Version:
 
 1. Open your LLM
-2. Go to [1.1_The_Pre-Meeting_Oracle.md](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md)
+2. Go to [The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)
 3. Copy the prompt
 4. Attach your documents
 5. Hit enter
@@ -15,11 +15,11 @@
 ## Step 4: Build Momentum
 
 **Week 1:** Run prompts from Category 1 (Meeting Intelligence)
-- [1.1 Pre-Meeting Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md)
-- [1.2 Pattern Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.2_The_Pattern_Spotter.md)
+- [1.1 The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)
+- [1.2 The_Pattern Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.2_The_Pattern_Spotter)
 
 **Week 2:** Add from Category 2 (Executive Communications)
-- [2.1 Board Whisperer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.1_The_Board_Whisperer.md)
+- [2.1_The_Board_Whisperer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.1_The_Board_Whisperer)
 
 ---
 
