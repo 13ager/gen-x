@@ -1,6 +1,6 @@
 ## Step 2: Run Your First Prompt
 
-**Recommended starter:** [1.1 Pre-Meeting Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md)
+**Recommended starter:** [1.1 Pre-Meeting Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md))
 
 ### Quick Version:
 
