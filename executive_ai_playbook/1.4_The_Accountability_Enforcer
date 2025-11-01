@@ -1,3 +1,18 @@
+# 1.4 Accountability Enforcer: Extract Commitments Automatically
+
+## What this does
+Extracts all commitments, decisions, and action items from meeting transcripts, flags items without clear owners or deadlines, and identifies contradictions with previous decisions. Automatically drafts follow-up messages for accountability.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{TRANSCRIPT}}` with your meeting transcript or detailed notes
+4. Hit enter
+
+---
+
+## The Prompt
+
 You will analyze a meeting transcript to extract commitments, decisions, and action items, identify potential issues, and draft follow-up messages. Here is the transcript to analyze:
 
 <transcript>
