@@ -101,4 +101,4 @@ By Month 2, you'll wonder how you worked without this.
 
 **Remember:** The penalty for waiting isn't inconvenience—it's invisibility.
 
-→ **[Start with Prompt 1.1](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md)**
+→ **[Start with 1.1 The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)**
