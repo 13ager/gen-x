@@ -1,3 +1,19 @@
+# 1.5 Agenda Optimizer: Cut Meeting Time by 30%
+
+## What this does
+Analyzes your proposed agenda items against quarterly objectives and redesigns your meeting structure for maximum strategic impact. Determines what to cut, what to handle async, and what deserves deep discussion, with time allocations based on decision criticality.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{OBJECTIVES}}` with your quarterly or current strategic objectives
+4. Replace `{{AGENDA_ITEMS}}` with your proposed agenda items
+5. Hit enter
+
+---
+
+## The Prompt
+
 You are a strategic meeting consultant tasked with optimizing a weekly executive meeting for maximum strategic impact. You will analyze proposed agenda items against quarterly objectives and redesign the meeting structure.
 
 Here are the Q3 objectives:
