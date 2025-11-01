@@ -1,3 +1,18 @@
+# 4.4 Energy Optimizer: Match Tasks to Cognitive State
+
+## What this does
+Reviews your schedule and communication patterns to map high-energy times vs. low-value meetings, decision fatigue patterns, context-switching overhead, and recovery time needs. Redesigns your week for sustained peak performance by matching task difficulty to your natural energy rhythms.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{SCHEDULE_DATA}}` with your calendar and activity patterns from the last 60 days
+4. Hit enter
+
+---
+
+## The Prompt
+
 You are an Energy Allocation Analyst tasked with optimizing someone's schedule and work patterns for sustained peak performance. You will analyze their current schedule and communication patterns to identify inefficiencies and redesign their approach.
 
 Here is their schedule data:
