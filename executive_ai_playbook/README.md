@@ -18,11 +18,11 @@
 
 | # | Prompt | Use When... | Time |
 |---|--------|-------------|------|
-| 1.1 | [Pre-Meeting Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle.md) | Predict tough questions before they're asked | 5 min |
-| 1.2 | [Pattern Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.2_The_Pattern_Spotter.md) | Find out which meetings actually matter | 15 min |
-| 1.3 | [Political Chess Master](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.3_The_Political_Chess_Master.md) | Map hidden agendas before they torpedo initiatives | 10 min |
-| 1.4 | [Accountability Enforcer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.4_The_Accountability_Enforcer.md) | Extract commitments automatically | 5 min |
-| 1.5 | [Agenda Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.5_The_Agenda_Optimizer.md) | Cut meeting time by 30% | 15 min |
+| 1.1 |[1.1_The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)| Predict tough questions before they're asked | 5 min |
+| 1.2 | [1.2_The_Pattern_Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.2_The_Pattern_Spotter) | Find out which meetings actually matter | 15 min |
+| 1.3 | [1.3_The Political Chess Master](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.3_The_Political_Chess_Master) | Map hidden agendas before they torpedo initiatives | 10 min |
+| 1.4 | [1.4_ The Accountability Enforcer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.4_The_Accountability_Enforcer) | Extract commitments automatically | 5 min |
+| 1.5 | [1.5_The_Agenda_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.5_The_Agenda_Optimizer) | Cut meeting time by 30% | 15 min |
 
 **Expected Results:** 8-12 hours reclaimed weekly, 25-40% execution improvement (BCG, 2025)
 
