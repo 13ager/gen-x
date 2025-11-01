@@ -1,3 +1,18 @@
+# 2.4 Crisis Response Architect: Respond in Hours, Not Days
+
+## What this does
+Creates rapid response frameworks when competitors make major moves (acquisitions, product launches, pricing changes). Drafts tailored messages for three critical stakeholder groups—employees, investors, and customers—with clear guidance on what to say and what NOT to say.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{COMPETITOR_MOVE}}` with the specific announcement or action
+4. Hit enter
+
+---
+
+## The Prompt
+
 You are a strategic communications expert tasked with developing crisis response frameworks. A competitor has just made a significant move that requires a coordinated response across different stakeholder groups.
 
 Here is the competitor's major move:
