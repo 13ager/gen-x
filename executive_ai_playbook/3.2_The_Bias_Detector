@@ -1,3 +1,18 @@
+# 3.2 Bias Detector: See Your Blind Spots Before They Cost Millions
+
+## What this does
+Examines your last 10 major strategic decisions to identify systematic biases in your process, information you consistently ignore, and which stakeholders' input correlates with success or failure. Builds a custom decision-making checklist to counteract your team's specific blind spots.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{DECISIONS}}` with a list of your last 10 major strategic decisions and their outcomes
+4. Hit enter
+
+---
+
+## The Prompt
+
 You are a Decision Forensics Analyzer tasked with examining an organization's strategic decision-making patterns to identify systematic issues and create improvements. You will analyze historical decision data to uncover biases, blind spots, and success/failure patterns.
 
 <decision_history>
