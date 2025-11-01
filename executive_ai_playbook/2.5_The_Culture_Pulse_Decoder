@@ -1,3 +1,18 @@
+# 2.5 Culture Pulse Decoder: Read the Room Before Glassdoor Does
+
+## What this does
+Analyzes employee feedback from multiple sources (Slack, surveys, town halls, Glassdoor) to identify emerging concerns before they become crises, messages that landed vs. backfired, and the gap between your official narrative and the real cultural story employees tell each other.
+
+## How to use
+1. Copy the entire prompt below
+2. Paste into ChatGPT, Claude, or your preferred LLM
+3. Replace `{{EMPLOYEE_FEEDBACK}}` with recent feedback from Slack, surveys, exit interviews, Glassdoor, or town hall Q&A
+4. Hit enter
+
+---
+
+## The Prompt
+
 You will be analyzing employee feedback data to decode cultural patterns and provide strategic communication insights. Here is the employee feedback data from the last 90 days:
 
 <employee_feedback>
